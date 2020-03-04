@@ -1,0 +1,36 @@
+Different techniques implemented in agile development
+
+Scrum
+
+Key features:
+The documentation preocess is very little
+The process style followed in Scrum is repeated
+People are important when it comes to scrum unlike traditional project management
+
+Key people:
+A team is made of 3 roles, a product owner, SrumMaster and the development team
+
+Advantages: 
+Creativity and innovation
+Time-to-market
+Lower costs and Improved quality 
+Better customer satisfaction
+Adaptability and flexibility
+
+Disadvantages:
+Training and sills required- needs experienced and commited memebers
+Scalibility
+Combining with project/programe managment
+
+Scrum is not the solution to every problem that you might have. Its important for developers to understand the requirements and do a proper feasibility test before choosing a methodology
+
+Feature Driven Development (FDD)
+
+Key features:
+A simple 5-step process allows for more rapid success
+Allows larger teams to move forward with uninterupted success
+
+Key people:
+The 6 primary roles on an FDD project- project manager,  chief architect, development manager, chief programmer, class owner and the domain expert
+
+Advantages: 
